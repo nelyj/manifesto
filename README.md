@@ -2,7 +2,9 @@ Programadores Chile
 ===================
 
 
-Este documento especifica la historia, motivo y principios de la comunidad **Programadores Chile**. El presente documento se divide en 4 partes.
+Este documento especifica la historia, motivo y principios de la comunidad **Programadores Chile**.
+
+El documento se divide en :
 
  1. Historia y motivaciones.
  2. Principios fundamentales.
@@ -43,6 +45,7 @@ Organización y Staff
 La comunidad **Programadores Chile** esta organizada por 3 capas de participación: **Staff**, **Colaboradores** y **Comunidad**.
 
 **STAFF**
+
 Miembros reclutados por Maximiliano Aravena ([@zethascript](https://twitter.com/zethascript)) cuando este empezó con el movimiento de la comunidad y cada uno esta a cargo de un área vital de la comunidad.
 
  - Maximiliano Aravena ([@zethascript](https://twitter.com/zethascript))
@@ -57,6 +60,7 @@ Miembros reclutados por Maximiliano Aravena ([@zethascript](https://twitter.com/
 	 - Productor Youtube : Videos & Talleres & Cursos
 
 **COLABORADORES**
+
 Son miembros que aportan activamente en la comunidad cuando sus tiempos se los permiten, son miembros que ha aportado realmente a la comunidad y a sus miembros creando la cultura de la comunidad:
 
  -  Nelson Jimenez ([@_patojimenez](https://twitter.com/_patojimenez))
@@ -65,6 +69,7 @@ Son miembros que aportan activamente en la comunidad cuando sus tiempos se los p
 	 - Hangout y recomendaciones se seguridad.
 
 **Comunidad**
+
 La **comunidad** son todos los miembros de **Programadores Chile** que día a día aportan con sus comentarios, ayudas y sugerencias. Son el núcleo principal y fundamental del movimiento.
 
 Comunidad Activa
