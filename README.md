@@ -54,9 +54,9 @@ Miembros reclutados por Maximiliano Aravena ([@zethascript](https://twitter.com/
 	 - Plataformas oficiales del grupo http://www.programadores.cl
  - Felipe Torres ([@fforres](https://twitter.com/fforres))
 	 - Eventos de la comunidad & Hangouts
- - Ricardo Castillo
+ - Ricardo Castillo ([Linkedin](https://www.linkedin.com/pub/ricardo-castillo-faundez/74/233/832))
 	 - Experiencia comunidad & moderador oficial grupo Facebook
- - Mauricio Lineros
+ - Mauricio Lineros ([@pixelarcano](https://twitter.com/pixelarcano))
 	 - Productor Youtube: Videos, Talleres & Cursos
 
 **COLABORADORES**
@@ -79,7 +79,9 @@ Comunidad Activa
 
 Todos los miembros que deseen aportar al grupo activamente tienen la posibilidad y el espacio para hacerlo, pero es deber del Staff asegurarse que en lo que se contribuya sean aportes útiles y no sólo intenciones que se queden en el camino.
 
-Se enfatiza en que cada miembros puede llegar a ser parte del staff sin ningún impedimento, pero existe un conducto a seguir.
+Se enfatiza en que cada miembros puede llegar a ser parte del staff sin ningún impedimento, pero existe un conducto a seguir. Puedes enviar tu aporte por sugerencias en este [enlace](https://github.com/programadoreschile/sugerencias) o por correo a contacto@programadores.cl para ser evaluado.
+
+
 
 **Miembros > Colaboradores > Staff**
 
