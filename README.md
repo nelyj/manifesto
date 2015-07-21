@@ -18,13 +18,13 @@ El documento se divide en :
 Historia & Motivaciones
 -------------
 
-**Programadores Chile** es una comunidad chilena que reúne a los programadores y desarrolladores del país pero también es rostro visible ante el resto del mundo al integrar a usuarios de toda hispanoamerica.
+**Programadores Chile** es una comunidad chilena que reúne a los programadores y desarrolladores del país pero también es rostro visible ante el resto del mundo al integrar a usuarios de toda hispanoamérica.
 
-La comunidad partió como un simple grupo de facebook por diciembre del 2014 y ante la llegada de Maximiliano Aravena ([@zethascript](https://twitter.com/zethascript)) como administrador, el grupo cambio totalmente y se empezó a trabajar en crear algo más que un espacio para dejar dudas de soporte técnico.
+La comunidad partió como un simple grupo de facebook por diciembre del 2014, pero ante la llegada de Maximiliano Aravena ([@zethascript](https://twitter.com/zethascript)) como administrador, éste cambió totalmente y se empezó a trabajar para crear algo que fuera más que un espacio para dejar dudas de soporte técnico.
 
-Así que durante los meses siguientes se fue reclutando poco a poco a los miembros interesados en apoyar esta comunidad con hechos concretos más que palabras e intenciones. Varios miembros del staff fueron quedando en el camino y a mediados de mayo se realizo una junta de todos los miembros del staff que realmente desean llevar esta comunidad a otro nivel.
+Así que durante los meses siguientes se fue reclutando poco a poco a los miembros interesados en apoyar esta comunidad con hechos concretos más que sólo palabras e intenciones. Varios miembros del staff fueron quedando en el camino y a mediados de mayo se realizo una junta de todos los miembros del staff que realmente desean llevar esta comunidad a otro nivel.
 
-Junto con ir sumando administradores la comunidad fue creciendo cada vez más, pasando de los **1000** usuarios a los **2000**, luego rápidamente paso a **4000** y ahora se cuenta con más de **5000 miembros **. Mucho de los miebros de esta son **profesionales destacados y muy talentosos** que han aportado de diferente manera a la comundiad (Hangout, respondiendo dudas, aportando con conocimiento, etc.) y es precisamente esto lo que hace que Programadores Chile este tomando fuerza cada vez más.
+Junto con ir sumando administradores, la comunidad fue creciendo cada vez más, pasando de los **1000** usuarios a los **2000**, luego rápidamente paso a **4000** y ahora se cuenta con más de **5000 miembros**. Muchos de los miembros de ésta son **profesionales destacados y muy talentosos** que han aportado de diferente manera a la comunidad (Hangouts, respondiendo dudas, aportando con conocimiento, etc.) y es precisamente esto lo que hace que Programadores Chile esté tomando fuerza cada vez más.
 
 
 
@@ -42,31 +42,31 @@ La comunidad **Programadores Chile** se basa en 5 principios fundamentales.
 Organización y Staff
 -------------
 
-La comunidad **Programadores Chile** esta organizada por 3 capas de participación: **Staff**, **Colaboradores** y **Comunidad**.
+La comunidad **Programadores Chile** está organizada por 3 capas de participación: **Staff**, **Colaboradores** y **Comunidad**.
 
 **STAFF**
 
-Miembros reclutados por Maximiliano Aravena ([@zethascript](https://twitter.com/zethascript)) cuando este empezó con el movimiento de la comunidad y cada uno esta a cargo de un área vital de la comunidad.
+Miembros reclutados por Maximiliano Aravena ([@zethascript](https://twitter.com/zethascript)) cuando éste empezó con el movimiento de la comunidad. Cada uno esta a cargo de un área vital de la comunidad.
 
  - Maximiliano Aravena ([@zethascript](https://twitter.com/zethascript))
-	 - Relaciones publicas y alianzas entre comunidades.
+	 - Relaciones públicas y alianzas entre comunidades.
  - Kevin Zelada ([@kevinzeladacl](https://twitter.com/kevinzeladacl))
 	 - Plataformas oficiales del grupo http://www.programadores.cl
  - Felipe Torres ([@fforres](https://twitter.com/fforres))
-	 - Eventos comunidad & Hangouts
+	 - Eventos de la comunidad & Hangouts
  - Ricardo Castillo
-	 - Experiencia Comunidad & Moderador oficial grupo facebook
+	 - Experiencia comunidad & moderador oficial grupo Facebook
  - Mauricio Lineros
-	 - Productor Youtube : Videos & Talleres & Cursos
+	 - Productor Youtube: Videos, Talleres & Cursos
 
 **COLABORADORES**
 
-Son miembros que aportan activamente en la comunidad cuando sus tiempos se los permiten, son miembros que ha aportado realmente a la comunidad y a sus miembros creando la cultura de la comunidad:
+Son miembros que aportan activamente en la comunidad cuando sus tiempos se los permiten, son miembros que han aportado realmente a ésta y a sus miembros creando la cultura de la comunidad:
 
  -  Nelson Jimenez ([@_patojimenez](https://twitter.com/_patojimenez))
 	 - Hangouts y espacios para eventos.
  -  Samuel Esteban
-	 - Hangout y recomendaciones se seguridad.
+	 - Hangouts y recomendaciones de seguridad.
 
 **Comunidad**
 
@@ -77,12 +77,12 @@ Comunidad Activa
 
 **Comunidad activa** es como se llama a la canalización de intenciones de la comunidad.
 
-Todos los miembros que deseen aportar al grupo activamente tienen la posibilidad y el espacio para hacerlo, pero es deber del Staff asegurarse que en lo que se contribuya sean aportes útiles y no solo intenciones que se quedan en el camino.
+Todos los miembros que deseen aportar al grupo activamente tienen la posibilidad y el espacio para hacerlo, pero es deber del Staff asegurarse que en lo que se contribuya sean aportes útiles y no sólo intenciones que se queden en el camino.
 
-Se enfatiza en que cada miembros puede llegar a ser parte del staff sin ningún impedimento pero existen un conducto a seguir.
+Se enfatiza en que cada miembros puede llegar a ser parte del staff sin ningún impedimento, pero existe un conducto a seguir.
 
 **Miembros > Colaboradores > Staff**
 
-> Si eres **Miembro** y aportas con algo realmente útil y activamente pasas a ser un colaborador. Si eres un **Colaborador** y quieres dedicarte
+> Si eres **Miembro** y aportas con algo realmente útil y de forma activa pasas a ser un colaborador. Si eres un **Colaborador** y quieres dedicarte
 > completamente a la comunidad pasas a ser un miembro del **Staff**.
 
