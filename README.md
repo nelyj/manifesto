@@ -56,17 +56,14 @@ Miembros reclutados por Maximiliano Aravena ([@zethascript](https://twitter.com/
 	 - Eventos de la comunidad & Hangouts
  - Ricardo Castillo ([Linkedin](https://www.linkedin.com/pub/ricardo-castillo-faundez/74/233/832))
 	 - Experiencia comunidad & moderador oficial grupo Facebook
- - Mauricio Lineros ([@pixelarcano](https://twitter.com/pixelarcano))
-	 - Productor Youtube: Videos, Talleres & Cursos
-
+ 
 **COLABORADORES**
 
 Son miembros que aportan activamente en la comunidad cuando sus tiempos se los permiten, son miembros que han aportado realmente a ésta y a sus miembros creando la cultura de la comunidad:
 
  -  Nelson Jimenez ([@_patojimenez](https://twitter.com/_patojimenez))
 	 - Hangouts y espacios para eventos.
- -  Samuel Esteban
-	 - Hangouts y recomendaciones de seguridad.
+
 
 **Comunidad**
 
